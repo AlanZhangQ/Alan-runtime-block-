@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  runtimeBlockLocalizable
+
+  Created by Alan on 2019/4/2.
+  Copyright © 2019年 Alan. All rights reserved.
+*/
+"switch language" = "切换语言";
+"show alert" = "显示提示";
+"pop.up.message.title.smart.tips" = "醒目小提示";
+"insured.yet.to.be.borne" = "受保人是否尚未出生";
+"change.insuredInfo.to.mother" = "请输入母亲资料";
+"continue.policy" = "请继续填保单";
+"renew.select" = "请重新选择";
+"YES" = "是";
+"NO" = "否";

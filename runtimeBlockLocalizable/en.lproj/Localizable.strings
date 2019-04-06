@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  runtimeBlockLocalizable
+
+  Created by Alan on 2019/4/2.
+  Copyright © 2019年 Alan. All rights reserved.
+*/
+"switch language" = "switch language";
+"show alert" = "show alert";
+"pop.up.message.title.smart.tips" = "Smart Tips";
+"insured.yet.to.be.borne" = "Is the insured yet to be born";
+"change.insuredInfo.to.mother" = "Please input the information of mother";
+"continue.policy" = "Please continue input policy";
+"renew.select" = "Please select again";
+"YES" = "YES";
+"NO" = "NO";
